@@ -2,7 +2,7 @@
 Tools for crack facebook
 # INSTALL BAHAN
 $pkg update && pkg upgrade
-
+````bash
 $pkg install python
 
 $pkg install git
@@ -14,7 +14,7 @@ $pip install bs4
 $cd CFB
 
 $python cfb.py
-
+````
 #### Hasil Crack
 <img src="https://github.com/ncek-XD/CFB/blob/main/Screenshot_2022-04-15-02-15-32-397_com.termux.jpg" width="640" title="Menu" alt="Menu">
 
