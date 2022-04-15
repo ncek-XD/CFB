@@ -3,6 +3,7 @@ Tools for crack facebook
 # INSTALL BAHAN
 $pkg update && pkg upgrade
 ````bash
+
 $pkg install python
 
 $pkg install git
