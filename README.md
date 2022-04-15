@@ -1,9 +1,9 @@
 # CFB
 Tools for crack facebook
 # INSTALL BAHAN
-$pkg update && pkg upgrade
 `````bash
-A
+$pkg update && pkg upgrade
+
 $pkg install python
 
 $pkg install git
