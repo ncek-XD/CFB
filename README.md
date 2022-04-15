@@ -9,3 +9,4 @@ $git clone http://github.com/ncek-xd/CFB
 $pip install bs4
 $cd CFB
 $python cfb.py
+H
