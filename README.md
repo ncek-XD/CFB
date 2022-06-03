@@ -1,4 +1,4 @@
-# CFB
+# CFg
 Tools for crack facebook
 # INSTALL BAHAN
 `````bash
